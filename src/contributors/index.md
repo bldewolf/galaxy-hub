@@ -22,8 +22,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title">[Jennifer Hillman-Jackson](/src/contributors/jennaj/index.md)</p>
     <p class="card-text">
-    1 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
-    3 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
     </p>
   </div>
 </div>
@@ -33,8 +33,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title">[Björn Grüning](/src/contributors/bgruening/index.md)</p>
     <p class="card-text">
-    2 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
-    5 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
     </p>
   </div>
 </div>
@@ -44,7 +44,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title">[John Chilton](/src/contributors/jmchilton/index.md)</p>
     <p class="card-text">
-    1 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title">[Aysam Guerler](/src/contributors/guerler/index.md)</p>
     <p class="card-text">
-    2 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -64,9 +64,9 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Martin Cech](/src/contributors/martenson/index.md) </p>
     <p class="card-text">
-    3 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
-    4 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
-    8 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -76,9 +76,9 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Dannon Baker](/src/contributors/dannon/index.md) </p>
     <p class="card-text">
-    2 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)<br />
-    2 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
-    4 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)<br />
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
     </p>
   </div>
 </div>
@@ -88,8 +88,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Nate Coraor](/src/contributors/natefoo/index.md) </p>
     <p class="card-text">
-    5 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
-    5 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=) <br />
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -99,7 +99,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title">[Greg Von Kuster](/src/contributors/gregvonkuster/index.md)</p>
     <p class="card-text">
-    4 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -109,8 +109,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Dave Clements](/src/contributors/tnabtaf/index.md) </p>
     <p class="card-text">
-    1 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
-    6 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors) <br />
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
     </p>
   </div>
 </div>
@@ -120,7 +120,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Dan Blankenberg](/src/contributors/blankenberg/index.md) </p>
     <p class="card-text">
-    6 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -130,7 +130,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Jeremy Goekcs](/src/contributors/jgoecks/index.md) </p>
     <p class="card-text">
-    7 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
     </p>
   </div>
 </div>
@@ -140,7 +140,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Carl Eberhard](/src/contributors/carlfeberhard/index.md) </p>
     <p class="card-text">
-    7 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -150,8 +150,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Enis Afgan](/src/contributors/afgane/index.md) </p>
     <p class="card-text">
-    2 in [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
-    6 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
+      [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
     </p>
   </div>
 </div>
@@ -161,7 +161,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Devon Ryan](/src/contributors/dpryan79/index.md) </p>
     <p class="card-text">
-    8 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
     </p>
   </div>
 </div>
@@ -171,7 +171,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Marius van den Beek](/src/contributors/mvdbeek/index.md) </p>
     <p class="card-text">
-    8 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -181,7 +181,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Hans-Rudolf Hotz](/src/contributors/hrhotz/index.md) </p>
     <p class="card-text">
-    9 in [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
+      [BioStar Support](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=)
     </p>
   </div>
 </div>
@@ -191,7 +191,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Dave Bouvier](/src/contributors/davebx/index.md) </p>
     <p class="card-text">
-    9 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -201,8 +201,8 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Nicola Soranzo](/src/contributors/nsoranzo/index.md) </p>
     <p class="card-text">
-    1 in [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
-    10 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -212,7 +212,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Vahid Jalili](/src/contributors/vjalili/index.md) </p>
     <p class="card-text">
-    7 in [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
+      [Hub](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
     </p>
   </div>
 </div>
@@ -222,7 +222,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [James Taylor](/src/contributors/jxtx/index.md) </p>
     <p class="card-text">
-    11 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
+      [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
 </div>
@@ -232,7 +232,7 @@ As of October 2018:
   <div class="card-body">
     <p class="card-title"> [Simone Leo](/src/contributors/simleo/index.md) </p>
     <p class="card-text">
-    3 in [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors)
+       [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors)
     </p>
   </div>
 </div>

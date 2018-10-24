@@ -11,105 +11,9 @@ As of October 2018:
 
 ----
 
-# Format 1
-
-# Support
-
-With over 100,000 users and hundreds (possibly thousands) of deployments around the world, support is absolutely vital to the success of Galaxy.
-
-## Galaxy BioStar
-
-<div class="float-right">
-[<img src="/src/contributors/jennaj.png" alt="Jennifer Hillman-Jackson" />](https://biostar.usegalaxy.org/u/254/)
-[<img src="/src/contributors/bgruening.jpeg" alt="Björn Grüning" />](https://biostar.usegalaxy.org/u/1225/)
-[<img src="/src/contributors/martenson.jpeg" alt="Martin Cech" />](https://biostar.usegalaxy.org/u/1313/)
-[<img src="/src/contributors/dannon.jpeg" alt="Dannon Baker" />](https://biostar.usegalaxy.org/u/247/)
-[<img src="/src/contributors/natefoo.jpeg" alt="Nate Coraor" />](https://biostar.usegalaxy.org/u/26/)
-[<img src="/src/contributors/tnabtaf.jpeg" alt="Dave Clements" />](https://biostar.usegalaxy.org/u/396/)
-[<img src="/src/contributors/jgoecks.jpeg" alt="Jeremy Goecks" />](https://biostar.usegalaxy.org/u/173/)
-[<img src="/src/contributors/dpryan79.jpeg" alt="Devon Ryan" />](https://biostar.usegalaxy.org/u/5379/)
-[<img src="/src/contributors/hrhotz.jpeg" alt="Hans-Rudolf Hotz" />](https://biostar.usegalaxy.org/u/179/)
-</div>
-
-* [16,281 contributors](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=), give or take
-
-# Code
-
-This includes the core server and user interface code, but also programs many other programs in the Galaxy ecosystem.
-
-## Galaxy
-
-<div class="float-right">
-[<img src="/src/contributors/jmchilton.png" alt="John Chilton" />](https://github.com/jmchilton)
-[<img src="/src/contributors/guerler.png" alt="Aysam Guerler" />](https://github.com/guerler)
-[<img src="/src/contributors/dannon.jpeg" alt="Dannon Baker" />](https://github.com/dannon)
-[<img src="/src/contributors/gregvonkuster.jpeg" alt="Greg von Kuster" />](https://github.com/gregvonkuster)
-[<img src="/src/contributors/natefoo.jpeg" alt="Nate Coraor" />](https://github.com/natefoo)
-[<img src="/src/contributors/blankenberg.jpeg" alt="Dan Bkankenberg" />](https://github.com/blankenberg)
-[<img src="/src/contributors/carlfeberhard.jpeg" alt="Carl Eberhard" />](https://github.com/carlfeberhard)
-[<img src="/src/contributors/mvdbeek.jpeg" alt="Marius van den Beek" />](https://github.com/mvdbeek)
-[<img src="/src/contributors/martenson.jpeg" alt="Martin Cech" />](https://github.com/martenson)
-[<img src="/src/contributors/davebx.jpeg" alt="Dave Bouvier" />](https://github.com/davebx)
-[<img src="/src/contributors/nsoranzo.jpeg" alt="Nicola Soranzo" />](https://github.com/nsoranzo)
-[<img src="/src/contributors/jxtx.jpeg" alt="James Taylor" />](https://github.com/jxtx)
-</div>
-
-The [Galaxy repository](https://github.com/galaxyproject/galaxy/)contains the core server and user interface code.  This is what most people are thinking of when they think of the Galaxy Codebase.
-
-* [193 Contributors](https://github.com/galaxyproject/galaxy/graphs/contributors)
-
-
-
-## BioBlend
-
-<div class="float-right">
-[<img src="/src/contributors/nsoranzo.jpeg" alt="Nicola Soranzo" />](https://github.com/nsoranzo)
-[<img src="/src/contributors/afgane.jpeg" alt="Enis Afgan" />](https://github.com/afgane)
-[<img src="/src/contributors/simleo.jpeg" alt="Simone Leo" />](https://github.com/simleo)
-</div>
-
-[BioBlend](https://github.com/galaxyproject/bioblend) is a Python library for interacting with [CloudMan](https://galaxyproject.org/cloudman/) and Galaxy's API.
-
-* [32 contributors](https://github.com/galaxyproject/bioblend/graphs/contributors) on GitHub
-
-<div class="float-right">
-[<img src="/src/contributors/" alt="" />](https://github.com/)
-[<img src="/src/contributors/" alt="" />](https://github.com/)
-</div>
-
-
-
-# Documentation, Training, Outreach
-
-## Galaxy Community Hub
-
-<div class="float-right">
-[<img src="/src/contributors/tnabtaf.jpeg" alt="Dave Clements" />](https://github.com/tnabtaf)
-[<img src="/src/contributors/dannon.jpeg" alt="Dannon Baker" />](https://github.com/dannon)
-[<img src="/src/contributors/jennaj.png" alt="Jennifer Hillman-Jackson" />](https://github.com/)
-[<img src="/src/contributors/martenson.jpeg" alt="Martin Cech" />](https://github.com/martenson)
-[<img src="/src/contributors/bgruening.jpeg" alt="Björn Grüning" />](https://github.com/bgruening)
-[<img src="/src/contributors/afgane.jpeg" alt="Enis Afgan" />](https://github.com/afgane)
-[<img src="/src/contributors/VJalili.jpeg" alt="Vahid Jalili" />](https://github.com/VJalili)
-</div>
-
-The Hub (the site you are on now) is where you can find everything Galaxy, including documentation and events.
-
-* [68 contributors](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
-
-
-
-<div class="float-right">
-[<img src="/src/contributors/" alt="" />](https://github.com/)
-[<img src="/src/contributors/" alt="" />](https://github.com/)
-[<img src="/src/contributors/" alt="" />](https://github.com/)
-</div>
-
----
-
 ----
 
-# Format 2
+# Format 1
 
 <div class="card-columns">
 
@@ -297,7 +201,7 @@ The Hub (the site you are on now) is where you can find everything Galaxy, inclu
   <div class="card-body">
     <p class="card-title"> [Nicola Soranzo](/src/contributors/nsoranzo/index.md) </p>
     <p class="card-text">
-    10 in [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
+    1 in [BioBlend Code](https://github.com/galaxyproject/bioblend/graphs/contributors) <br />
     10 in [Galaxy Code](https://github.com/galaxyproject/galaxy/graphs/contributors)
     </p>
   </div>
@@ -334,6 +238,46 @@ The Hub (the site you are on now) is where you can find everything Galaxy, inclu
 </div>
 
 </div>
+
+# Format 2
+
+# Support
+
+With over 100,000 users and hundreds (possibly thousands) of deployments around the world, support is absolutely vital to the success of Galaxy.
+
+## Galaxy BioStar
+
+* [16,281 contributors](https://biostar.usegalaxy.org/user/list/?sort=reputation&limit=all%20time&q=), give or take
+
+# Code
+
+This includes the core server and user interface code, but also programs many other programs in the Galaxy ecosystem.
+
+## Galaxy
+
+The [Galaxy repository](https://github.com/galaxyproject/galaxy/)contains the core server and user interface code.  This is what most people are thinking of when they think of the Galaxy Codebase.
+
+* [193 Contributors](https://github.com/galaxyproject/galaxy/graphs/contributors)
+
+
+
+## BioBlend
+
+[BioBlend](https://github.com/galaxyproject/bioblend) is a Python library for interacting with [CloudMan](https://galaxyproject.org/cloudman/) and Galaxy's API.
+
+* [32 contributors](https://github.com/galaxyproject/bioblend/graphs/contributors) on GitHub
+
+
+# Documentation, Training, Outreach
+
+## Galaxy Community Hub
+
+The Hub (the site you are on now) is where you can find everything Galaxy, including documentation and events.
+
+* [68 contributors](https://github.com/galaxyproject/galaxy-hub/graphs/contributors)
+
+---
+
 
 <hr style="clear: both" />
 
